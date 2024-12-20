@@ -7,7 +7,9 @@
         "category": "Misc",
         "is_experimental": false,
         "is_craftable": true,
-        "icon": "textures/items/redstick"
+        "icon": "textures/items/redstick",
+        "name": "Red Stick",
+        "description": "Breaks a 3x3x1 area of blocks."
       },
       "components": {
         "minecraft:icon": "textures/items/redstick",
@@ -20,7 +22,9 @@
         "category": "Misc",
         "is_experimental": false,
         "is_craftable": true,
-        "icon": "textures/items/bluestick"
+        "icon": "textures/items/bluestick",
+        "name": "Blue Stick",
+        "description": "Breaks a 6x6x2 area of blocks."
       },
       "components": {
         "minecraft:icon": "textures/items/bluestick",
@@ -33,7 +37,9 @@
         "category": "Misc",
         "is_experimental": false,
         "is_craftable": true,
-        "icon": "textures/items/yellowstick"
+        "icon": "textures/items/yellowstick",
+        "name": "Yellow Stick",
+        "description": "Breaks a 9x9x3 area of blocks."
       },
       "components": {
         "minecraft:icon": "textures/items/yellowstick",
