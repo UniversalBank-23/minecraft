@@ -6,11 +6,12 @@
         "identifier": "minecraft:redstick",
         "category": "Misc",
         "is_experimental": false,
-        "is_craftable": false,
+        "is_craftable": true,
         "icon": "textures/items/redstick"
       },
       "components": {
-        "minecraft:icon": "textures/items/redstick"
+        "minecraft:icon": "textures/items/redstick",
+        "minecraft:durability": -1
       }
     },
     {
@@ -18,11 +19,12 @@
         "identifier": "minecraft:bluestick",
         "category": "Misc",
         "is_experimental": false,
-        "is_craftable": false,
+        "is_craftable": true,
         "icon": "textures/items/bluestick"
       },
       "components": {
-        "minecraft:icon": "textures/items/bluestick"
+        "minecraft:icon": "textures/items/bluestick",
+        "minecraft:durability": -1
       }
     },
     {
@@ -30,11 +32,12 @@
         "identifier": "minecraft:yellowstick",
         "category": "Misc",
         "is_experimental": false,
-        "is_craftable": false,
+        "is_craftable": true,
         "icon": "textures/items/yellowstick"
       },
       "components": {
-        "minecraft:icon": "textures/items/yellowstick"
+        "minecraft:icon": "textures/items/yellowstick",
+        "minecraft:durability": -1
       }
     }
   ]
