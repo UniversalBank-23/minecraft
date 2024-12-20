@@ -26,7 +26,7 @@ system.breakArea = function(player, position, width, length, height) {
     let minX = position.x - Math.floor(width / 2);
     let minY = position.y;
     let minZ = position.z - Math.floor(length / 2);
-
+    
     for (let x = minX; x < minX + width; x++) {
         for (let y = minY; y < minY + height; y++) {
             for (let z = minZ; z < minZ + length; z++) {
@@ -35,11 +35,11 @@ system.breakArea = function(player, position, width, length, height) {
         }
     }
 
-    // Notify the player that the tool was used
+    // Notify the player the tool was used
     this.broadcastMessage(player, `Breaking blocks in a ${width}x${length}x${height} area.`);
 };
 
-// Function to break a single block at given coordinates and drop items
+// Function to break a single block at given coordinates and drop item
 system.breakBlockAt = function(x, y, z) {
     let position = { x: x, y: y, z: z };
     let block = this.getBlock(x, y, z); // Get the block that was clicked on
@@ -60,8 +60,10 @@ system.dropItem = function(x, y, z, itemId) {
 
 // Function to get the block at the given coordinates
 system.getBlock = function(x, y, z) {
-    // This is a simplified example. You may need to fetch actual block data.
-    return { id: 'minecraft:stone' }; // Replace with real block-fetching logic
+    // This is a simplified example. In Minecraft scripting, getting a block at coordinates
+    // is handled by the Minecraft scripting API, not directly through JavaScript.
+    // This would require a method for fetching block data.
+    return { id: 'minecraft:stone' }; // You can replace this with actual block-fetching logic
 };
 
 // Helper function to send a message to the player
