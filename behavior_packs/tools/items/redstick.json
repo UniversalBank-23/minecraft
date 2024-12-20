@@ -6,7 +6,8 @@
       "category": "Misc",
       "is_experimental": false,
       "is_craftable": false,
-      "icon": "textures/items/redstick"
+      "icon": "textures/items/redstick",
+      "description": "3x3 "
     },
     "components": {
       "minecraft:icon": "textures/items/redstick"
