@@ -6,7 +6,8 @@
       "category": "Misc",
       "is_experimental": false,
       "is_craftable": false,
-      "icon": "textures/items/bluestick"
+      "icon": "textures/items/bluestick",
+      "description": "6x6 area."
     },
     "components": {
       "minecraft:icon": "textures/items/bluestick"
