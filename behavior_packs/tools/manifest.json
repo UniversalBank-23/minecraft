@@ -1,22 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Custom Tools for Minecraft: Red Stick, Blue Stick, Yellow Stick.",
-    "identifier": "com.universalbank.tools",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 0]
+    "description": "Custom Tools Behavior Pack",
+    "name": "Custom Tools",
+    "uuid": "6b30ab55-6f22-4c1e-a8e3-8f2321b7a909",  // Make sure the UUID is unique
+    "version": [1, 0, 0]
   },
   "modules": [
     {
       "description": "Main script for custom tools",
       "entry": "scripts/main.js",
       "type": "scripting"
-    }
-  ],
-  "dependencies": [
-    {
-      "identifier": "minecraft",
-      "version": [1, 16, 0]
     }
   ]
 }
