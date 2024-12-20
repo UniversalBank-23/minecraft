@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Tools for Breaking Blocks in Larger Areas",
+    "name": "Minecraft Custom Tools Add-On",
+    "uuid": "8c46ecfe-48bc-4089-9c35-1c625a3efc72", 
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Custom Block Breaking Tools Script",
+      "type": "scripting",
+      "uuid": "7b2e06c0-cbbb-45f7-9869-1c462a5200bb", 
+      "version": [1, 0, 0]
+    }
+  ]
+}
