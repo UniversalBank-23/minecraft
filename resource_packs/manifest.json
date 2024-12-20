@@ -1,16 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Resource pack for Custom Tools: Red Stick, Blue Stick, Yellow Stick.",
-    "identifier": "com.universalbank.tools.resource",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 0]
+    "description": "Custom Tools Resource Pack",
+    "name": "Custom Tools",
+    "uuid": "c65d60e7-bdb1-4c35-b9c4-543f768ac3c9",
+    "version": [1, 0, 0]
   },
   "modules": [],
   "dependencies": [
     {
-      "identifier": "minecraft",
-      "version": [1, 16, 0]
+      "uuid": "6b30ab55-6f22-4c1e-a8e3-8f2321b7a909",
+      "version": [1, 0, 0]
     }
   ]
 }
