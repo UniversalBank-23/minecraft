@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:redstick",
+      "category": "Misc",
+      "is_experimental": false,
+      "is_craftable": false,
+      "icon": "textures/items/redstick"
+    },
+    "components": {
+      "minecraft:icon": "textures/items/redstick"
+    }
+  }
+}
