@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:bluestick",
+      "category": "Misc",
+      "is_experimental": false,
+      "is_craftable": false,
+      "icon": "textures/items/bluestick"
+    },
+    "components": {
+      "minecraft:icon": "textures/items/bluestick"
+    }
+  }
+}
