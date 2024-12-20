@@ -6,7 +6,8 @@
       "category": "Misc",
       "is_experimental": false,
       "is_craftable": false,
-      "icon": "textures/items/yellowstick"
+      "icon": "textures/items/yellowstick",
+      "description": "9x9 area, ideal for large-scale destruction."
     },
     "components": {
       "minecraft:icon": "textures/items/yellowstick"
