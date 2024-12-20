@@ -3,7 +3,7 @@
   "header": {
     "description": "Custom Tools Behavior Pack",
     "name": "Custom Tools",
-    "uuid": "6b30ab55-6f22-4c1e-a8e3-8f2321b7a909",  // Make sure the UUID is unique
+    "uuid": "6b30ab55-6f22-4c1e-a8e3-8f2321b7a909",
     "version": [1, 0, 0]
   },
   "modules": [
