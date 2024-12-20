@@ -3,38 +3,38 @@
   "minecraft:item": [
     {
       "description": {
-        "identifier": "minecraft:red_stick",
+        "identifier": "minecraft:redstick",
         "category": "Misc",
         "is_experimental": false,
         "is_craftable": true,
-        "icon": "textures/items/red_stick"
+        "icon": "textures/items/redstick"
       },
       "components": {
-        "minecraft:icon": "textures/items/red_stick"
+        "minecraft:icon": "textures/items/redstick"
       }
     },
     {
       "description": {
-        "identifier": "minecraft:blue_stick",
+        "identifier": "minecraft:bluestick",
         "category": "Misc",
         "is_experimental": false,
         "is_craftable": true,
-        "icon": "textures/items/blue_stick"
+        "icon": "textures/items/bluestick"
       },
       "components": {
-        "minecraft:icon": "textures/items/blue_stick"
+        "minecraft:icon": "textures/items/bluestick"
       }
     },
     {
       "description": {
-        "identifier": "minecraft:yellow_stick",
+        "identifier": "minecraft:yellowstick",
         "category": "Misc",
         "is_experimental": false,
         "is_craftable": true,
-        "icon": "textures/items/yellow_stick"
+        "icon": "textures/items/yellowstick"
       },
       "components": {
-        "minecraft:icon": "textures/items/yellow_stick"
+        "minecraft:icon": "textures/items/yellowstick"
       }
     }
   ]
