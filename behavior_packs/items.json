@@ -1,0 +1,41 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": [
+    {
+      "description": {
+        "identifier": "minecraft:red_stick",
+        "category": "Misc",
+        "is_experimental": false,
+        "is_craftable": true,
+        "icon": "textures/items/red_stick"
+      },
+      "components": {
+        "minecraft:icon": "textures/items/red_stick"
+      }
+    },
+    {
+      "description": {
+        "identifier": "minecraft:blue_stick",
+        "category": "Misc",
+        "is_experimental": false,
+        "is_craftable": true,
+        "icon": "textures/items/blue_stick"
+      },
+      "components": {
+        "minecraft:icon": "textures/items/blue_stick"
+      }
+    },
+    {
+      "description": {
+        "identifier": "minecraft:yellow_stick",
+        "category": "Misc",
+        "is_experimental": false,
+        "is_craftable": true,
+        "icon": "textures/items/yellow_stick"
+      },
+      "components": {
+        "minecraft:icon": "textures/items/yellow_stick"
+      }
+    }
+  ]
+}
