@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Tools for Minecraft: Red Stick, Blue Stick, Yellow Stick.",
+    "identifier": "com.universalbank.customtools",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Main script for custom tools",
+      "entry": "scripts/main.js",
+      "type": "scripting"
+    }
+  ],
+  "dependencies": [
+    {
+      "identifier": "minecraft",
+      "version": [1, 16, 0]
+    }
+  ]
+}
